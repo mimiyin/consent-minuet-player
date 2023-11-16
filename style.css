@@ -1,0 +1,27 @@
+html, body {
+  margin: 1em;
+  padding: 0;
+  font-family: Arial;
+}
+canvas {
+  display: block;
+}
+
+button {
+  width: 5em;
+  height: 2em;
+  margin: 2em 2em 2em 0;
+  display: span;
+}
+
+#stop {
+  background: red;
+  color: white;
+  height: 5em;
+}
+
+#clip-12, #clip-13, #clip-34, #clip-24, #clip-1234 {
+  background: black;
+  color: white;
+  height: 5em;
+}
